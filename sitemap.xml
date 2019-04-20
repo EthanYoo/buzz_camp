@@ -9,6 +9,7 @@
 <url> <loc>https://ethanyoobuzzvil.github.io/buzz_camp/blog/2017/04/10/blog-post-two</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://ethanyoobuzzvil.github.io/buzz_camp/blog/2016/03/11/blog-post</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://ethanyoobuzzvil.github.io/buzz_camp/docs/intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ethanyoobuzzvil.github.io/buzz_camp/docs/intro" /> </url>
+<url> <loc>https://ethanyoobuzzvil.github.io/buzz_camp/docs/lecture-season1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ethanyoobuzzvil.github.io/buzz_camp/docs/lecture-season1" /> </url>
 <url> <loc>https://ethanyoobuzzvil.github.io/buzz_camp/docs/lesson1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ethanyoobuzzvil.github.io/buzz_camp/docs/lesson1" /> </url>
 <url> <loc>https://ethanyoobuzzvil.github.io/buzz_camp/docs/lesson2</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://ethanyoobuzzvil.github.io/buzz_camp/docs/lesson2" /> </url>
 </urlset>
