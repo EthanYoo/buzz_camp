@@ -20,6 +20,7 @@ title : 강의자료 - 시즌1
 - [Lesson11. OOP](https://docs.google.com/presentation/d/1-yOnOiFut-QF0nWd4YaQ_YFgXFrwNu3taAt1Q48piTA/edit?usp=sharing)
 - [Lesson11.Revised. OOP](https://docs.google.com/presentation/d/1SU6ZybEGxdaxBfwj3zwwXBfXRKGccV81n45pfTjoAFo/edit?usp=sharing)
   - [영상](https://youtu.be/oHq4D6pPmdk)
+- [Lesson12. How to develop app](https://docs.google.com/presentation/d/1TrDhyybxM_1kE9giHp3piBi-SVkVdU6c3CwPUcThrWo/edit?usp=sharing)
 
 ### 고급 자바 강의
 
